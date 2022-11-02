@@ -17,5 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Credits
- [Programming Point](https://www.youtube.com/c/SkillsHouse07)
- [UPDATED! Flutter 3.0 Course for Beginners to Advanced 2022 - Build Flutter iOS and Android Apps](https://www.youtube.com/watch?v=ZqEouycRSzY&t=9619s)
+Big thanks to
+    [Programming Point](https://www.youtube.com/c/SkillsHouse07)
+Tutorial link
+    [UPDATED! Flutter 3.0 Course for Beginners to Advanced 2022 - Build Flutter iOS and Android Apps](https://www.youtube.com/watch?v=ZqEouycRSzY&t=9619s)
